@@ -24,4 +24,4 @@ Following node modules are needed:
     8. react-router-dom
     9. react-scripts
 
-![Screenshot](http://test.png)
+![Screenshot](https://user-images.githubusercontent.com/37082848/46926982-7a8d9580-cff0-11e8-9e23-15cc4620a580.gif)
